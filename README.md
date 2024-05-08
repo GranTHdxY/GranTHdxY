@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Java
+### On Github
+![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=GRanTHdxY&show_icons=true&theme=radical&count_private=true)
+
